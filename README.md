@@ -1,6 +1,18 @@
 <h1 align="center">💻 Ignite-Lab-Microserviços</h1>
 
----
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/TypeScript-95.9%25-orange">
+ 
+  <img alt="SASS" src="https://img.shields.io/badge/npm-v9.2.1%25-%23DB7093">
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/code%20quality-A-green"/>
+  
+  <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
+    <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
+  </a>
+</p>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -9,11 +21,8 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center"> Evento Ignite-Lab da Rockte Seat Sobre Microserviços</p>
     <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
 
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
@@ -22,6 +31,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.
 
 ## Installation
 
