@@ -30,7 +30,7 @@
 
 ## Description
 
-Microserviço de de nortificações que fiz no evento Ignite-Lab da rockte seat, ultilizando o NestJs
+Microserviço de nortificações que fiz no evento Ignite-Lab da rockte seat, ultilizando o NestJs.
 
 ## Installation
 
