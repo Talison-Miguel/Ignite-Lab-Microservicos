@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/TypeScript-95.9%25-orange">
  
-  <img alt="SASS" src="https://img.shields.io/badge/npm-v9.2.1%25-%23DB7093">
+  <img alt="SASS" src="https://img.shields.io/badge/npm-v9.2.1%25-%23green">
 
   <br>
   
@@ -21,7 +21,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center"> Evento Ignite-Lab da Rockte Seat Sobre Microserviços</p>
+  <p align="center"> Nest, A progressive Node.js Framework</p>
     <p align="center">
 
 </p>
@@ -30,8 +30,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.
+Microserviço de de nortificações que fiz no evento Ignite-Lab da rockte seat, ultilizando o NestJs
 
 ## Installation
 
