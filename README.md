@@ -1,7 +1,6 @@
 <h1 align="center">
  💻 Ignite-Lab-Microserviços
 </h1>
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -65,6 +64,23 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## License
+---
 
-@Talison Miguel
+<h4 align="center">
+  Feito com ❤️ por Tálison Miguel 👋️ <a href="mailto:talisonmiguel84@gmail.com">Entre em contato!</a>
+</h4>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
+    <img alt="Tálison Miguel Amancio" src="https://img.shields.io/badge/LinkedIn-Tálison_Miguel-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009099058734">
+    <img alt="Tálison Miguel Amancio" src="https://img.shields.io/badge/Facebook-Tálison_Miguel-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/talison_miguel_00/">
+    <img alt="Tálison Miguel Amancio" src="https://img.shields.io/badge/Instagram-@talison__miguel__00-833AB4?style=flat&logoColor=white&logo=instagram">
+  </a>
+  
+</p>
+
